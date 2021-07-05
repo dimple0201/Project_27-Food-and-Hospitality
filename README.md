@@ -2,8 +2,6 @@
 
 FoodTime - **MERN** stack food ordering application.
 
-Website: [https://foodtime-app.herokuapp.com](https://foodtime-app.herokuapp.com)
-
 ### Overview:
 
 - Designed for two types of user: **Consumer** and **Restaurant Manager**.
